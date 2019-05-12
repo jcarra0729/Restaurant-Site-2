@@ -1,0 +1,30 @@
+header, footer {
+    background-color: lightslategray;
+    color: aliceblue;
+}
+
+header {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 150%;
+
+}
+
+th {
+    font-size: 125%;
+}
+
+section {
+    background-color: bisque;
+}
+
+nav a:visited {
+    color: brown;
+}
+
+nav a:hover {
+    font-weight: bold;
+}
+
+nav a:active{
+    text-decoration: none;
+}
